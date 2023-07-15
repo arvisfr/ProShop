@@ -28,7 +28,7 @@ const Header = () => {
   };
 
   return (
-    <header className="fixed-top mb-5" >
+    <header >
       <Navbar bg='primary' variant='dark' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
