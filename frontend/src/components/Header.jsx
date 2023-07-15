@@ -88,6 +88,11 @@ const Header = () => {
           </Navbar.Collapse>
         </Container>
       </Navbar>
+        <h2 class="text-center text-bg-success border border-3 border-danger    ">
+        All products in this shop are only for testing purpose. Any payments
+        through the system are <em class="text-danger">NON REFUNDABLE</em> And
+        will be considered as a<em class="text-info">DONATION</em>
+      </h2>
     </header>
   );
 };
